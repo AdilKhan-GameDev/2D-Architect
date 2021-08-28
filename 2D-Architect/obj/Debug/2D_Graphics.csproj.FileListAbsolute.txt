@@ -1,0 +1,136 @@
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\2D_Graphics.exe.config
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\2D_Graphics.exe
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\2D_Graphics.pdb
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\obj\Debug\App.g.cs
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\obj\Debug\2D_Graphics_MarkupCompile.cache
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\obj\Debug\2D_Graphics_MarkupCompile.lref
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\obj\Debug\2D_Graphics.g.resources
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\obj\Debug\_2D_Graphics.Properties.Resources.resources
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\obj\Debug\2D_Graphics.csproj.GenerateResource.cache
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\obj\Debug\2D_Graphics.csproj.CoreCompileInputs.cache
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\obj\Debug\2D_Graphics.exe
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\obj\Debug\2D_Graphics.pdb
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\obj\Debug\2D_Graphics.csprojAssemblyReference.cache
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\obj\Debug\MainWindow.g.cs
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\obj\Debug\MainWindow.baml
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\obj\Debug\Views\ColorSwatch.g.cs
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\obj\Debug\Views\ColorSwatch.baml
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\WPF_Diagrams\2D_Graphics\obj\Debug\2D_Graphics.csproj.CopyComplete
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\2D_Graphics.exe.config
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\2D_Graphics.exe
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\2D_Graphics.pdb
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\obj\Debug\2D_Graphics.csprojAssemblyReference.cache
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\obj\Debug\Views\ColorSwatch.baml
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\obj\Debug\MainWindow.g.cs
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\obj\Debug\Views\ColorSwatch.g.cs
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\obj\Debug\App.g.cs
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\obj\Debug\2D_Graphics_MarkupCompile.cache
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\obj\Debug\2D_Graphics_MarkupCompile.lref
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\obj\Debug\MainWindow.baml
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\obj\Debug\2D_Graphics.g.resources
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\obj\Debug\_2D_Graphics.Properties.Resources.resources
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\obj\Debug\2D_Graphics.csproj.GenerateResource.cache
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\obj\Debug\2D_Graphics.csproj.CoreCompileInputs.cache
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\obj\Debug\2D_Graphics.csproj.CopyComplete
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\obj\Debug\2D_Graphics.exe
+F:\Gry\Projekt freelancer - create shapes etc\2D_Graphics\2D_Graphics\obj\Debug\2D_Graphics.pdb
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\2D_Graphics.exe.config
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\2D_Graphics.exe
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\2D_Graphics.pdb
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\obj\Debug\2D_Graphics.csprojAssemblyReference.cache
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\obj\Debug\Views\ColorSwatch.baml
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\obj\Debug\MainWindow.g.cs
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\obj\Debug\Views\ColorSwatch.g.cs
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\obj\Debug\App.g.cs
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\obj\Debug\2D_Graphics_MarkupCompile.cache
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\obj\Debug\2D_Graphics_MarkupCompile.lref
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\obj\Debug\MainWindow.baml
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\obj\Debug\2D_Graphics.g.resources
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\obj\Debug\_2D_Graphics.Properties.Resources.resources
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\obj\Debug\2D_Graphics.csproj.GenerateResource.cache
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\obj\Debug\2D_Graphics.csproj.CoreCompileInputs.cache
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\obj\Debug\2D_Graphics.csproj.CopyComplete
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\obj\Debug\2D_Graphics.exe
+C:\Users\Ceren's Aadil\Desktop\2D_Graphics (06.10.20)\2D_Graphics\obj\Debug\2D_Graphics.pdb
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\2D_Graphics.exe.config
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\2D_Graphics.exe
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\2D_Graphics.pdb
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\obj\Debug\2D_Graphics.csprojAssemblyReference.cache
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\obj\Debug\Views\ColorSwatch.baml
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\obj\Debug\MainWindow.g.cs
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\obj\Debug\Views\ColorSwatch.g.cs
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\obj\Debug\App.g.cs
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\obj\Debug\2D_Graphics_MarkupCompile.cache
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\obj\Debug\2D_Graphics_MarkupCompile.lref
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\obj\Debug\MainWindow.baml
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\obj\Debug\2D_Graphics.g.resources
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\obj\Debug\_2D_Graphics.Properties.Resources.resources
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\obj\Debug\2D_Graphics.csproj.GenerateResource.cache
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\obj\Debug\2D_Graphics.csproj.CoreCompileInputs.cache
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\obj\Debug\2D_Graphics.csproj.CopyComplete
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\obj\Debug\2D_Graphics.exe
+D:\GithubREPOs\2D-Architect\2D-Architect\2D-Architect\2D_Graphics\obj\Debug\2D_Graphics.pdb

@@ -1,0 +1,30 @@
+﻿
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+06.10.2020 ~16:10
+
+
+Comments:
+~118 MainWindow.xaml.cs - refers to a change in the grid size and an error (partially fixed)
+~182 MainWindow.xaml.cs - regarding the click on the vertex and the possibility of moving it to another place and thus updating the drawing of lines connected to it, probably this method will be reworked 
+or used for updating the drawing of lines, I do not know:) ~273 MainWindow.xaml.cs -> DrawingMouseUp.
+
+General questions for the nearest change, introduction to the possibilities:
+Hide the ellipses/circles on tops (end/beginning) of the line after creating the shape.
+2. displaying an ellipse/circle on tops (end/beginning) of the line after selecting the shape, e.g. clicking on the shape's background or its line
+3. possibility to select/unselect the shape. For example, when I click on the inner part of the created shape, it marks it immediately, displaying ellipses/circles on vertexes, when
+I click on the place outside of the created shape, it automatically marks it and vertices are hidden
+4. possibility of moving the vertex to another place, in this time updating the position of the vertex and redrawing the lines next to it, including the shape background. If this is not efficient enough, 
+it is enough to display vertex movement at the cursor and when the user clicks again to another place it will update the created shape, but I would prefer it to redraw in real time, i.e. when moving the 
+vertex to another place.
+5. if I create two shapes where one is higher than the other and when I click on the higher one, the higher one will be marked to distinguish here which shape/object I click on. Now it recognizes everything 
+as canvas from what I see.
+6 The ability to remove the selected shape, e.g. for the time being under the button, i.e. the user clicks on the inside of the shape, selects and clicks on the button, after which the shape will be removed 
+from the canvas and from our list of objects
+
+Possible hint for drag & drop:
+Maybe it would be better to add events to the created shape, e.g. move, etc., and when it is removed to the events would be slowed down? e.g. now in Canvas_MouseLeftButtonDown you use the MovingObjectClick method, 
+where in the parameter you pass the sender, which is a canvas, and not the object that the user clicked on, e.g. the created shape? and then update the position of that particular shape? e.g. taking its 
+parent (the parent will probably be a canvas). 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

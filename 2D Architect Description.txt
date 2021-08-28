@@ -1,0 +1,4 @@
+A flexible .Net Project developed in Windows Production Foundation and C#.
+This can help you create 2D bluprint of any kind of architecture.
+It gives Precise measurement of Each line and you can assign color to any shape.
+It will be much improved in near future.
